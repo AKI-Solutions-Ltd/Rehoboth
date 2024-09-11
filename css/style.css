@@ -71,7 +71,7 @@ body {
    .image img{
     width: 70px;
     position: relative;
-    right: 5rem;
+    right: 1rem;
   } 
 .service-head{
   color:black;
@@ -118,7 +118,7 @@ body {
     color: grey;
 }
 
-@media screen and (max-width:420px){
+@media screen and (max-width:430px){
   .image img{
    width: 100px;
   
@@ -126,6 +126,37 @@ body {
     right: 0;
     width: 80px;
     margin-right: 1rem;
+  }
+  .container1{
+    display: flex;
+    flex-direction: column;
+
+  }
+   
+  .olaboy{
+    display: none;
+  }
+  .para{
+    font-size: 17px;
+    max-width: 370px;
+  }
+  .new{
+    font-size: 19px;
+    max-width: 440px;
+  }
+  .neew{
+    font-size: 19px;
+    max-width:370px;
+  }
+  .change{
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 0 17px;
+    
+  }
+  .meme{
+    position: relative;
+    left: 2rem;
   }
 }
 
@@ -8556,7 +8587,7 @@ h1, h2, h3, h4, h5,
     .owl-carousel.home-slider .slider-item {
       background-size: cover;
       background-repeat: no-repeat;
-      background-position: top center;
+      background-position:  center;
       height: 600px;
       position: relative;
       z-index: 0; }
