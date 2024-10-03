@@ -91,7 +91,7 @@ body {
   height: 80px;
   width: 80px;
   border-radius: 50%;
-  background-color: #3E4095 ;
+  background-color: #5F1C51 ;
   position: relative;
 }
 .container1{
@@ -8332,7 +8332,7 @@ h1, h2, h3, h4, h5,
   padding: 0; }
   .ftco-navbar-light .container {
     /* background: #0d1128; */
-    background-color: #3E4095;
+    background-color: #5F1C51;
     width: 1110px; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
@@ -8702,7 +8702,7 @@ h1, h2, h3, h4, h5,
         height: 10px;
         margin: 5px;
         border-radius: 50%;
-        background: #fd5f00; }
+        background: #901D78; }
         .owl-carousel.home-slider .owl-dots .owl-dot.active {
           background: #fff; }
 
@@ -8942,7 +8942,7 @@ h1, h2, h3, h4, h5,
     .staff .text .position {
       text-transform: uppercase;
       color: #b3b3b3;
-      color: #fd5f00;
+      color: #901D78;
       display: block;
       letter-spacing: 2px;
       font-size: 12px;
@@ -9407,7 +9407,7 @@ textarea.form-control {
       border-radius: 50%;
       background: rgba(0, 0, 0, 0.2); }
       .testimony-section .owl-dots .owl-dot.active {
-        background: #fd5f00; }
+        background: #901D78; }
   .testimony-section .owl-item {
     opacity: .1 !important;
     margin-top: 20px; }
